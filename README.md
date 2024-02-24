@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Umesh Chauhan</h1> 
-<h1 align="center">Data Enthusiast/Researcher</h1> 
+<h1 align="center">Data Analysis Enthusiast/Researcher</h1> 
 <h3 align="center"> Currently working as Business Analyst/FinCrime Analyst/Risk Analyst</h3>,
 <h3 align="center"> Looking for oppotunity to Working as full time Data Analyst</h3>.
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **Data Analysis** projects on Sales data and on real time data with the help of **Python and its libraries** and making business dashboard using **PowerBI**.
+- 🔭 I’m currently working on **Data Analysis** projects on Sales data and on some real time data with the help of **Python and its libraries** and making business dashboard using **PowerBI**.
 
 - 🔭 I have worked on BI Tools like **Tableau , PowerBI** and created wonderful bussiness dashboards.
 
