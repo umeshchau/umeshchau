@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Umesh Chauhan</h1>
-<h3 align="center">Passionate to work as a Data scientist</h3>
+<h3 align="center"> Business Analyst/FinCrime Analyst/Risk Analyst</h3>
+<h3 align="center"> Looking for oppotunity to Working as full time Data Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on Projects **Computer Vision and NLP**
 
-- 👯 I’m currently working **CV project (Image classifier)**
+- 👯 I have worked on **CV project (Image classifier)**
 
-- 🤝I’m currently working **NLP-Project**
+- 🤝I have worked on **NLP-Projects** like Sentiment analysis of customer reviews on perticular products
+- 🤝I have worked with Web scaping tools like **BeautifulSoup Python Web Scraping Library, Scrapy Python Web Scraping Library**
 
 - 📫 How to reach me **umeshuc.94@gmail.com**
 
