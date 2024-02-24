@@ -8,11 +8,11 @@
 
 - 🔭 I have worked on BI Tools like **Tableau , PowerBI** and created wonderful bussiness dashboards.
 
-- 👯 I have worked on **Machine Learning** Projects **Reggressor , Classifier** Like **House Price Pediction, Cancer Prediction**.
+- 👯 I have worked on **Machine Learning** Projects **Reggressor , Classifier** Like **House Price Pediction, Breast Cancer Prediction , Medical Insurance Cost Prediction** with the help of different **Machine Learning Algorithms** using **SciKit Learn Library Python**
 
 - 👯 I have worked on **Computer Vision project (Image classifier)** Live image capturing data and analyse it.
 
-- 🤝I have worked on **NLP-Projects** like **Sentiment analysis** of customer reviews on perticular product.
+- 🤝I have worked on **NLP-Projects** like **Sentiment analysis** of customer reviews on a perticular product using **NLTK Library in Python**.
   
 - 🤝I have worked with Web scraping tools like **BeautifulSoup Python Web Scraping Library, Scrapy Python Web Scraping Library**.
 
