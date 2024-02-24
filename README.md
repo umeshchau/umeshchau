@@ -4,12 +4,17 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on Projects **Computer Vision and NLP**
+- 🔭 I’m currently working on **Data Analysis** project on Sales data with the help of **Python and its libraries** and making business dashboard using **PowerBI**
 
-- 👯 I have worked on **CV project (Image classifier)**
+- 🔭 I have worked on BI Tools like **Tableau , PowerBI** and created wonderful bussiness dashboards.
 
-- 🤝I have worked on **NLP-Projects** like Sentiment analysis of customer reviews on perticular products
-- 🤝I have worked with Web scaping tools like **BeautifulSoup Python Web Scraping Library, Scrapy Python Web Scraping Library**
+- 👯 I have worked on **Machine Learning** Projects **Reggressor,Classifier** Like **House Price Pediction, Cancer Prediction**
+
+- 👯 I have worked on **Computer Vision project (Image classifier)** Live image capturing data and analyse it.
+
+- 🤝I have worked on **NLP-Projects** like **Sentiment analysis** of customer reviews on perticular product.
+  
+- 🤝I have worked with Web scraping tools like **BeautifulSoup Python Web Scraping Library, Scrapy Python Web Scraping Library**
 
 - 📫 How to reach me **umeshuc.94@gmail.com**
 
